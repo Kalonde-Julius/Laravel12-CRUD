@@ -27,29 +27,34 @@
 
   <foot>
     <div class="copyright text-center pt-3">
-        &copy; Copyright <a href="https://kalonde-julius.github.io/Kalonde22"> <strong> Kalonde Julius</strong> </a>
+        &copy; <a href="https://kalonde-julius.github.io/Kalonde22"> <strong> Kalonde Julius</strong> </a>
     </div>
 
     <div class="flex flex-column text-center pt-3 justify-between">
 
-        <a href="https://github.com/Kalonde-Julius" class="button flex-col-6 mx-3">
+        <a href="https://github.com/Kalonde-Julius" 
+            class="button flex-col-6 mx-3">
             <i class="fab fa-github"></i>
        </a>
 
-        <a href="#" class="button flex-col-6 mx-3">
+        <a href="https://x.com/SeguyaGavillia" 
+            class="button flex-col-6 mx-3">
             <i class="fab fa-twitter"></i>
         </a>
 
-        <a href="#" class="button flex-col-6 mx-3">
-              <i class="fab fa-facebook-f"></i>          
+        <a href="https://www.facebook.com/kalonde.julius/" 
+            class="button flex-col-6 mx-3">
+            <i class="fab fa-facebook"></i>          
         </a>
 
-        <a href="#" class="button flex-col-6 mx-3">
-              <i class="fab fa-instagram"></i>           
+        <a href="https://ug.linkedin.com/in/kalonde-julius-seguya-51a9904b" 
+            class="button flex-col-6 mx-3">
+            <i class="fa-brands fa-linkedin"></i>           
         </a>
 
-        <a href="#" class="button flex-col-6 mx-3">
-              <i class="fab fa-youtube"></i>
+        <a href="https://www.youtube.com/@kalondejulius6887" 
+            class="button flex-col-6 mx-3">
+            <i class="fa-brands fa-youtube"></i>
         </a>
 
      </div>
